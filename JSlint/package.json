@@ -1,0 +1,21 @@
+{
+  "name": "first-lesson",
+  "version": "1.0.0",
+  "description": "Learing js",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js"
+  },
+  "keywords": [
+    "learning",
+    "js"
+  ],
+  "author": "Jackob",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.5.0"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
